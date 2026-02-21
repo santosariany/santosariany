@@ -70,12 +70,6 @@ Atualmente, estou mergulhada no ecossistema **Java**, aprimorando meus conhecime
 
 
 
-### 📈 Estatísticas do Github
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=santosariany&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosariany&layout=compact&langs_count=7&theme=dracula"/>
-
-
-
 <p align="left">
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
