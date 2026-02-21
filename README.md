@@ -8,6 +8,7 @@
 
 Atualmente, estou mergulhada no ecossistema **Java**, aprimorando meus conhecimentos em lógica de programação e arquitetura de sistemas, enquanto mantenho minhas habilidades em **Python** e outras ferramentas essenciais para o dia a dia de uma dev.
 
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=santosariany&layout=compact&langs_count=7&theme=dark)
 
 
 ---
