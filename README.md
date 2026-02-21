@@ -95,11 +95,16 @@ Atualmente, estou mergulhada no ecossistema **Java**, aprimorando meus conhecime
 
 ### 📊 Minhas Estatísticas
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santosariany&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosariany&layout=compact&langs_count=7&theme=dark"/>
-</p>
-
+<table border="0">
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santosariany&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosariany&layout=compact&langs_count=7&theme=dracula"/>
+    </td>
+  </tr>
+</table>
 
 
 ---
