@@ -8,7 +8,6 @@
 
 Atualmente, estou mergulhada no ecossistema **Java**, aprimorando meus conhecimentos em lógica de programação e arquitetura de sistemas, enquanto mantenho minhas habilidades em **Python** e outras ferramentas essenciais para o dia a dia de uma dev.
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=santosariany&layout=compact&langs_count=7&theme=dark)
 
 
 ---
@@ -92,6 +91,14 @@ Atualmente, estou mergulhada no ecossistema **Java**, aprimorando meus conhecime
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariany-santos)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arianydev@gmail.com)
+
+
+### 📊 Minhas Estatísticas
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santosariany&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosariany&layout=compact&langs_count=7&theme=dracula"/>
+</p>
 
 
 
