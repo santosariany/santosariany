@@ -1,4 +1,4 @@
-# Olá, eu sou a Ariany Santos! 👋
+# Olá, eu sou a Ariany Santos! 
 
 
 
